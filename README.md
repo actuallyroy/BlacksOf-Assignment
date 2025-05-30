@@ -2,6 +2,26 @@
 
 A modern, performant, and accessible frontend implementation of the Supreme Group website using Next.js 14 with App Router and Tailwind CSS.
 
+## 📑 Table of Contents
+
+- [Live Demo](#-live-demo)
+- [Tech Stack](#-tech-stack)
+- [Getting Started](#-getting-started)
+  - [Prerequisites](#prerequisites)
+  - [Installation](#installation)
+- [Component Architecture](#-component-architecture)
+  - [Key Features](#key-features)
+- [Responsive Design Strategy](#-responsive-design-strategy)
+- [Performance Optimizations](#-performance-optimizations)
+- [Accessibility](#-accessibility)
+- [Design Implementation](#-design-implementation)
+- [Testing](#-testing)
+- [Future Improvements](#-future-improvements)
+- [Additional Notes](#-additional-notes)
+  - [Challenges Faced](#challenges-faced)
+  - [Solutions Implemented](#solutions-implemented)
+- [License](#-license)
+
 ## 🌐 Live Demo
 
 [View Live Demo](https://supreme-group.vercel.app/)
