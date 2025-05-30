@@ -24,7 +24,7 @@ A modern, performant, and accessible frontend implementation of the Supreme Grou
 
 ## 🌐 Live Demo
 
-[View Live Demo]([https://supreme-group.vercel.app/](https://blacks-of-assignment.vercel.app/))
+[View Live Demo](https://blacks-of-assignment.vercel.app/)
 
 ## 🛠 Tech Stack
 
